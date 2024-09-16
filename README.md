@@ -11,7 +11,6 @@ About me:
 <br>
 Had experience with:
 <br>
-<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"  />
   <img width="12" />
@@ -36,5 +35,7 @@ Had experience with:
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30" alt="opencv" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn" />
-  
 </div>
+<br><br>
+Contact me:
+<br><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
