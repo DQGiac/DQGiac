@@ -1,13 +1,11 @@
 ## Hey there! 👋
 <br>I'm Giac Quang Do, usually go under the name _DQGiac_!
 <br>
-<br>
 About me:
 - 📍 Danang city, Vietnam 🇻🇳
 - 🏫 Le Quy Don High School for the Gifted, Danang
 - 🎲 Play electric bass, walk/bike around the city, hang out with friends, and speedcube in my free time
 - ✨ Full-time Gifted Math student, part-time technophile, Machine Learning and AI optimist, robotics enthusiast, environment supporter, competitive programmer, game developer
-<br>
 <br>
 Had experience with:
 <br>
@@ -36,7 +34,7 @@ Had experience with:
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn" />
 </div>
-<br><br>
+<br>
 Contact me:
 <br>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" mailto="doquanggiac@gmail.com" /></a>
