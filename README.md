@@ -3,7 +3,7 @@
 <br>
 <br>
 About me:
-- 📍 Danang city
+- 📍 Danang city, Vietnam 🇻🇳
 - 🏫 Le Quy Don High School for the Gifted, Danang
 - 🎲 Play electric bass, walk/bike around the city, hang out with friends in my free time
 - ✨ Full-time Gifted Math student, part-time technophile, Machine Learning and AI optimist, robotics enthusiast, environment supporter, competitive programmer, game developer
