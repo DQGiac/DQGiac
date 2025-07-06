@@ -4,13 +4,13 @@
 About me:
 - 📍 Danang city, Vietnam 🇻🇳
 - 🏫 Le Quy Don High School for the Gifted, Danang
-- 🎲 Play electric bass, walk/bike around the city, hang out with friends, and speedcube in my free time
+- 🎲 Learn guitar, magic, play electric bass, walk/bike around the city, hang out with friends, and speedcube in my free time
 - ✨ Full-time Gifted Math student, part-time technophile, Machine Learning and AI optimist, robotics enthusiast, environment supporter, competitive programmer, and game developer!
 <br>
 Had experience with:
 <br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
@@ -24,7 +24,6 @@ Had experience with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino" />
   <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" height="30" alt="scrapy" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" height="30" alt="celery" />
-<!--   <a style="background: rgba(255,0,0);"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="30" alt="flask" /></a> -->
   <img src="https://play-lh.googleusercontent.com/ekpyJiZppMBBxCR5hva9Zz1pr3MYlFP-vWTYR3eIU7HOMAmg3jCJengHJ1GFgFMyyYc=w480-h960" height="30" alt="flask" />
 </div>
 <br>
