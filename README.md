@@ -1,5 +1,5 @@
 ## Hey there! 👋
-<br>I'm Do Quang Giac (pronounced Zac!), usually go under the name _DQGiac_!
+<br>I'm Do Quang Giac, usually go under the name _DQGiac_!
 <br>
 About me:
 - 📍 Danang city, Vietnam 🇻🇳
