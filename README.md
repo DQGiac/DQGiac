@@ -30,6 +30,9 @@ Had experience with:
   <img title="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" alt="scikit-learn" />
   <img title="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="30" alt="blender" />
   <img title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" alt="arduino" />
+  <img title="C" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" width="30" alt="c programming language" />
+  <img title="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30" alt="c plus plus programming language" />
+  
   <!-- <img title="Scrapy" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" width="30" alt="scrapy" /> -->
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="30" alt="celery" /> -->
   <!-- <a style="background: rgba(255,0,0);"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="30" alt="flask" /></a> -->
