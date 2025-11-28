@@ -12,26 +12,26 @@ About me:
 Strong points:
 <br>
 <div align="left">
-  <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img title="p5.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" height="30" alt="p5.js" />
+  <img title="HTML" src="https://img.shields.io/static/v1?message=HTML&logo=HTML5&label=&color=e54c21&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="html5" />
+  <img title="CSS" src="https://img.shields.io/static/v1?message=CSS&logo=CSS&label=&color=663399&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="css3" />
+  <img title="JavaScript" src="https://img.shields.io/static/v1?message=JavaScript&logo=Javascript&label=&color=f7e018&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="javascript" />
+  <img title="Python" src="https://img.shields.io/static/v1?message=Python&logo=Python&label=&color=3472a2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="python" />
+  <img title="p5.js" src="https://img.shields.io/static/v1?message=p5.js&label=&color=ED225D&logo=p5.js&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="p5.js" />
 </div>
 <br>
 Had experience with:
 <br>
 <div align="left">
-  <img title="Java" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30" alt="java" />
-  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="MySQL" />
-  <img title="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="30" alt="c programming language" />
-  <img title="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" alt="c plus plus programming language" />
-  <img title="Tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="tensorflow" />
-  <img title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="30" alt="pandas" />
-  <img title="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30" alt="opencv" />
-  <img title="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn" />
+  <img title="C" src="https://img.shields.io/static/v1?message=C&label=&color=A8B9CC&logo=C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="c programming language" />
+  <img title="C++" src="https://img.shields.io/static/v1?message=C%2B%2B&label=&color=00599C&logo=C%2B%2B&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="c plus plus programming language" />
+  <img title="Java" src="https://img.shields.io/static/v1?message=Java&label=&color=0e6fb6&logo=&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="java" />
+  <img title="MySQL" src="https://img.shields.io/static/v1?message=MySQL&label=&color=4479A1&logo=&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="MySQL" />
+  <img title="Tensorflow" src="https://img.shields.io/static/v1?message=Tensorflow&label=&color=FF6F00&logo=tensorflow&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tensorflow" />
+  <img title="Pandas" src="https://img.shields.io/static/v1?message=Pandas&label=&color=150458&logo=pandas&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="pandas" />
+  <img title="OpenCV" src="https://img.shields.io/static/v1?message=OpenCV&label=&color=ff2a44&logo=opencv&logoColor=&labelColor=&style=for-the-badge" height="30" alt="opencv" />
+  <img title="Scikit-learn" src="https://img.shields.io/static/v1?message=Scikit-Learn&label=&color=F7931E&logo=&logoColor=&labelColor=&style=for-the-badge" height="30" alt="scikit-learn" />
   <!-- <img title="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender" /> -->
-  <img title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino" />
+  <img title="Arduino" src="https://img.shields.io/static/v1?message=Arduino&label=&color=00878F&logo=arduino&logoColor=&labelColor=&style=for-the-badge" height="30" alt="arduino" />
   
   <!-- <img title="Scrapy" src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" width="30" alt="scrapy" /> -->
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="30" alt="celery" /> -->
