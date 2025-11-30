@@ -12,10 +12,10 @@ About me:
 Strong points:
 <br>
 <div align="left">
+  <img title="Python" src="https://img.shields.io/static/v1?message=Python&logo=Python&label=&color=3472a2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="python" />
   <img title="HTML" src="https://img.shields.io/static/v1?message=HTML&logo=HTML5&label=&color=e54c21&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="html5" />
   <img title="CSS" src="https://img.shields.io/static/v1?message=CSS&logo=CSS&label=&color=663399&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="css3" />
   <img title="JavaScript" src="https://img.shields.io/static/v1?message=JavaScript&logo=Javascript&label=&color=f7e018&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="javascript" />
-  <img title="Python" src="https://img.shields.io/static/v1?message=Python&logo=Python&label=&color=3472a2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="python" />
   <img title="p5.js" src="https://img.shields.io/static/v1?message=p5.js&label=&color=ED225D&logo=p5.js&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="p5.js" />
 </div>
 <br>
