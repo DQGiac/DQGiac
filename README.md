@@ -2,12 +2,12 @@
 <br>I'm Do Quang Giac, usually go under the name _DQGiac_!
 <br>
 About me:
+- ✨ Full-time technophile. Data Science & Artificial Intelligence aspirant. Game developer. Robotics enthusiast. Competitive programmer. Environment supporter.
 - 📍 Danang city, Vietnam 🇻🇳
 - 🏫 Education
   - Le Quy Don High School for the Gifted, Danang<br>
     Specialization: Math
 - 🎲 Learn guitar and magic, play electric bass, walk/bike around the city, hang out with friends, and speedcube in my free time
-- ✨ Full-time technophile. Data Science & Artificial Intelligence aspirant. Game developer. Robotics enthusiast. Competitive programmer. Environment supporter.
 <br>
 Strong points:
 <br>
