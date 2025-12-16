@@ -41,6 +41,7 @@ Had experience with:
 <br>
 Profiles:
 <br>
+<a href="https://www.linkedin.com/in/giac-quang-do-dqgiac/"><img src="https://img.shields.io/static/v1?message=linkedin&label=&color=0075b4&logo=&logoColor=&labelColor=&style=for-the-badge" height="30" alt="linkedin" /></a>
 <a href="https://leetcode.com/u/abusinessemail27"><img src="https://img.shields.io/static/v1?message=LeetCode&label=&color=FFA116&logo=Leetcode&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode"/></a>
 <a href="https://www.kaggle.com/dqgiac23"><img src="https://img.shields.io/static/v1?message=Kaggle&label=&color=20BEFF&logo=&logoColor=&labelColor=&style=for-the-badge" height="30" alt="kaggle" /> </a>
 <br>
@@ -48,4 +49,3 @@ Profiles:
 Contact:
 <br>
 <a href="mailto:doquanggiac@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/giac-quang-do-dqgiac/"><img src="https://img.shields.io/static/v1?message=linkedin&label=&color=0075b4&logo=&logoColor=&labelColor=&style=for-the-badge" height="30" alt="linkedin" /></a>
