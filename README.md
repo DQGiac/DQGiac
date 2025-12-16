@@ -7,7 +7,7 @@ About me:
   - Le Quy Don High School for the Gifted, Danang<br>
     Specialization: Math
 - 🎲 Learn guitar and magic, play electric bass, walk/bike around the city, hang out with friends, and speedcube in my free time
-- ✨ Full-time technophile. DS & AI aspirant. Robotics enthusiast. Environment supporter. Competitive programmer. Game developer.
+- ✨ Full-time technophile. Data Science & Artificial Intelligence aspirant. Game developer. Robotics enthusiast. Competitive programmer. Environment supporter.
 <br>
 Strong points:
 <br>
