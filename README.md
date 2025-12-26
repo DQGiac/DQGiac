@@ -2,7 +2,7 @@
 <br>I'm Do Quang Giac, usually go under the name _DQGiac_!
 <br>
 About me:
-- ✨ Full-time technophile. Data Science & Artificial Intelligence aspirant. Game developer. Robotics enthusiast. Competitive programmer. Environment supporter.
+- ✨ Full-time technophile. Data Science & Artificial Intelligence aspirant. Game developer. Competitive programmer. Robotics enthusiast. Environment supporter.
 - 📍 Danang city, Vietnam 🇻🇳
 - 🏫 Education
   - Le Quy Don High School for the Gifted, Danang<br>
@@ -43,7 +43,8 @@ Profiles:
 <br>
 <a href="https://www.linkedin.com/in/giac-quang-do-dqgiac/"><img src="https://img.shields.io/static/v1?message=linkedin&label=&color=0075b4&logo=&logoColor=&labelColor=&style=for-the-badge" height="30" alt="linkedin" /></a>
 <a href="https://leetcode.com/u/abusinessemail27"><img src="https://img.shields.io/static/v1?message=LeetCode&label=&color=FFA116&logo=Leetcode&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode"/></a>
-<a href="https://www.kaggle.com/dqgiac23"><img src="https://img.shields.io/static/v1?message=Kaggle&label=&color=20BEFF&logo=&logoColor=&labelColor=&style=for-the-badge" height="30" alt="kaggle" /> </a>
+<a href="https://www.kaggle.com/dqgiac23"><img src="https://img.shields.io/static/v1?message=Kaggle&label=&color=20BEFF&logo=&logoColor=&labelColor=&style=for-the-badge" height="30" alt="kaggle" /></a>
+<a href="https://dqg.itch.io/"><img src="https://img.shields.io/static/v1?message=itch.io&label=&color=FA5C5C&logo=itch.io&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="kaggle" /></a>
 <br>
 <br>
 Contact:
