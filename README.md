@@ -7,7 +7,7 @@ About me:
 - 🏫 Education
   - Le Quy Don High School for the Gifted, Danang<br>
     Specialization: Math
-- 🎲 Learn guitar and magic, play electric bass, walk/bike around the city, hang out with friends, and speedcube in my free time
+- 🎲 Learn guitar and electric bass, walk/bike around the city, hang out with friends, and play basketball with my brother in my free time
 <br>
 Strong points:
 <br>
