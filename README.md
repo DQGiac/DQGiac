@@ -17,12 +17,13 @@ Strong points:
   <img title="CSS" src="https://img.shields.io/static/v1?message=CSS&logo=CSS&label=&color=663399&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="css3" />
   <img title="JavaScript" src="https://img.shields.io/static/v1?message=JavaScript&logo=Javascript&label=&color=f7e018&logoColor=333333&labelColor=&style=for-the-badge" height="30" alt="javascript" />
   <img title="p5.js" src="https://img.shields.io/static/v1?message=p5.js&label=&color=ED225D&logo=p5.js&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="p5.js" />
+  <img title="C" src="https://img.shields.io/static/v1?message=C&label=&color=A8B9CC&logo=C&logoColor=333333&labelColor=&style=for-the-badge" height="30" alt="c programming language" />
+
 </div>
 <br>
 Had experience with:
 <br>
 <div align="left">
-  <img title="C" src="https://img.shields.io/static/v1?message=C&label=&color=A8B9CC&logo=C&logoColor=333333&labelColor=&style=for-the-badge" height="30" alt="c programming language" />
   <img title="C++" src="https://img.shields.io/static/v1?message=C%2B%2B&label=&color=00599C&logo=C%2B%2B&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="c plus plus programming language" />
   <img title="Java" src="https://img.shields.io/static/v1?message=Java&label=&color=0e6fb6&logo=&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="java" />
   <img title="PostgreSQL" src="https://img.shields.io/static/v1?message=PostgreSQL&label=&color=1F8ACB&logo=postgresql&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="post gre sequal" />
