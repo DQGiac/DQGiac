@@ -27,6 +27,7 @@ Had experience with:
   <!-- <img title="Java" src="https://img.shields.io/static/v1?message=Java&label=&color=0e6fb6&logo=&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="java" /> -->
   <img title="PostgreSQL" src="https://img.shields.io/static/v1?message=PostgreSQL&label=&color=1F8ACB&logo=postgresql&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="post gre sequal" />
   <img title="Tensorflow" src="https://img.shields.io/static/v1?message=Tensorflow&label=&color=FF6F00&logo=tensorflow&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tensorflow" />
+  <img title="NumPy" src="https://img.shields.io/static/v1?message=NumPy&label=&color=4d6dcf&logo=numpy&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="numpy" />
   <img title="Pandas" src="https://img.shields.io/static/v1?message=Pandas&label=&color=150458&logo=pandas&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="pandas" />
   <img title="OpenCV" src="https://img.shields.io/static/v1?message=OpenCV&label=&color=ff2a44&logo=opencv&logoColor=&labelColor=&style=for-the-badge" height="30" alt="opencv" />
   <img title="Scikit-learn" src="https://img.shields.io/static/v1?message=Scikit-Learn&label=&color=F7931E&logo=scikit-learn&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="scikit-learn" />
